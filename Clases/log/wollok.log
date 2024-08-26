@@ -1,0 +1,11 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":229,"timestamp":"2024-08-26T14:00:57.514Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/MARIA/Desktop/PDP/Objetos/Clases","timestamp":"2024-08-26T14:00:57.523Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":118,"timestamp":"2024-08-26T14:00:57.643Z"}
+{"level":"info","message":"⌛ Validating que-fiesta/example.wlk","timeElapsed":179,"timestamp":"2024-08-26T14:00:57.917Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":118,"timestamp":"2024-08-26T14:00:58.036Z"}
+{"level":"info","message":"⌛ Validating que-fiesta/testExample.wtest","timeElapsed":159,"timestamp":"2024-08-26T14:00:58.204Z"}
+{"level":"info","message":"⌛ Validating que-fiesta/example.wlk","timeElapsed":149,"timestamp":"2024-08-26T14:00:58.354Z"}
+{"level":"info","message":"⌛ Validating que-fiesta/testExample.wtest","timeElapsed":102,"timestamp":"2024-08-26T14:00:58.456Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":292,"timestamp":"2024-08-26T14:01:50.218Z"}
+{"level":"info","message":"⌛ Validating que-fiesta/example.wlk","timeElapsed":216,"timestamp":"2024-08-26T14:01:50.437Z"}
+{"level":"info","message":"⌛ Validating que-fiesta/testExample.wtest","timeElapsed":185,"timestamp":"2024-08-26T14:01:50.624Z"}
