@@ -26,6 +26,8 @@ object manic {
 
 
 }
+// estado: conjunto de atributos
+// comportamiento: conjunto de metodos
 // Interfaz: Conjuntos de mensajes que entiende un objeto
 // Encapsulamiento, uno de los tres pilares de objetos.
 
