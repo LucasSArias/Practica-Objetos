@@ -32,7 +32,32 @@ object manic {
 // Encapsulamiento, uno de los tres pilares de objetos.
 
 object fiesta {
-  var quienOrganiza = manic
+  var quienOrganiza = capy
 
   method estaPreparada() = quienOrganiza.tieneTodoListo() && quienOrganiza.tieneSuficientesGlobos()
 }
+
+object chuy {
+  method tieneTodoListo() = true
+}
+
+object capy {
+  var property latas = 0
+  var globos = 0
+
+  method globos() = globos                  // Tendria que poner estas 3 lineas para cada personaje,
+  method comprarGlobos(unaCantidad) {       // es repeticion de logica a lo loco
+    globos = unaCantidad                    // pero no se me ocurre como implementarlo sino
+  } 
+
+  method recolectarLatas() {
+    latas += 1    
+  }
+
+  method reciclarLatas() {
+    latas = 0.max(latas-5)
+  }
+
+  method tieneTodoListo() = latas % 2 == 0
+}
+
